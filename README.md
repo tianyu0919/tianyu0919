@@ -2,6 +2,8 @@ Hi
 
 ![](https://github-readme-stats.vercel.app/api?username=tianyu0919&show_icons=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=tianyu0919)
+
 - 👋 Hi, I’m @tianyu0919
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
