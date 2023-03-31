@@ -1,6 +1,6 @@
 Hi
 
-![](https://github-readme-stats.vercel.app/api?username=tianyu0919&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=ffffff)
+![](https://github-readme-stats.vercel.app/api?username=tianyu0919&show_icons=true)
 
 - 👋 Hi, I’m @tianyu0919
 - 👀 I’m interested in ...
